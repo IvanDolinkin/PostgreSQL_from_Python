@@ -1,6 +1,6 @@
 import psycopg2
 
-conn = psycopg2.connect(database='clients', user='postgres', password='314159')
+conn = psycopg2.connect(database='clients', user='postgres', password='...')
 
 
 # Удалить таблицы.
